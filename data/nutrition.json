@@ -1,0 +1,38 @@
+[
+  {
+    "id": "kartoffeln-zwiebeln-lagern",
+    "tab": "ernaehrung",
+    "category": "vorratsschrank",
+    "categoryLabel": "Vorratsschrank",
+    "title": "Kartoffeln & Zwiebeln lagern",
+    "aliases": ["Kartoffellagerung", "Zwiebeln aufbewahren"],
+    "viralClaim": "Ein oft geteilter 'Hack' zeigt Kartoffeln und Zwiebeln zusammen in einem hübschen Korb – sieht gut aus, wird aber selten hinterfragt.",
+    "evidenceScore": 3,
+    "facts": "Zwiebeln geben Feuchtigkeit und Gase ab, die Kartoffeln schneller keimen und faulen lassen. Getrennte, dunkle und kühle Lagerung verlängert die Haltbarkeit beider deutlich. Das ist keine virale Behauptung, sondern lebensmittelkundlich gut belegt.",
+    "action": "Kartoffeln und Zwiebeln getrennt, dunkel, kühl (nicht im Kühlschrank) und gut belüftet lagern, z. B. in Papiertüten oder Jute-Säcken statt Plastik.",
+    "riskLevel": "niedrig",
+    "sources": [
+      { "label": "Verbraucherzentrale – Lebensmittel richtig lagern", "url": "https://www.verbraucherzentrale.de/wissen/lebensmittel/haltbarkeit/lebensmittel-richtig-lagern" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  },
+  {
+    "id": "frittieroel-wiederverwenden",
+    "tab": "ernaehrung",
+    "category": "kuechenhacks",
+    "categoryLabel": "Küchenhacks",
+    "title": "Frittieröl wiederverwenden",
+    "aliases": ["Bratoel wiederverwenden", "Oel mehrfach nutzen"],
+    "viralClaim": "Manche Videos raten dazu, Frittieröl beliebig oft wiederzuverwenden, um Geld zu sparen.",
+    "evidenceScore": 2,
+    "facts": "Mehrfaches starkes Erhitzen von Öl fördert die Bildung unerwünschter Oxidationsprodukte und Transfette. Das Risiko hängt stark von Öltyp, Erhitzungstemperatur und Häufigkeit ab – ein einmaliges Wiederverwenden ist unproblematischer als wiederholtes starkes Erhitzen über mehrere Tage.",
+    "action": "Öl nach Gebrauch abkühlen lassen, filtern, dunkel lagern und nur wenige Male wiederverwenden. Bei dunkler Farbe, unangenehmem Geruch oder Schaumbildung entsorgen.",
+    "riskLevel": "mittel",
+    "sources": [
+      { "label": "BfR – Wiederverwendung von Frittierfetten", "url": "https://www.bfr.bund.de" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  }
+]
