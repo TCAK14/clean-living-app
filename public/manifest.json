@@ -1,0 +1,22 @@
+{
+  "name": "360° Clean Living & Health",
+  "short_name": "CleanLiving",
+  "description": "Viral geteiltes Wissen zu Gesundheit und Haushalt - geprueft, mit Evidenz-Score und konkreten Handlungsschritten.",
+  "start_url": "/koerper",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#059669",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
