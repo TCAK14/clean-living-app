@@ -1,0 +1,76 @@
+[
+  {
+    "id": "weichspueler",
+    "tab": "haushalt",
+    "category": "waschen",
+    "categoryLabel": "Waschen",
+    "title": "Weichspüler",
+    "aliases": ["Softener", "Fabric Softener", "Weichmacher Waesche"],
+    "viralClaim": "Weichspüler gilt in vielen Haushalten als harmlos – er macht Wäsche weich und riecht gut.",
+    "evidenceScore": 2,
+    "facts": "Viele Weichspüler enthalten Duftstoffe und quartäre Ammoniumverbindungen. Ein Teil dieser Stoffe steht im Verdacht, endokrine Disruptoren zu sein – Substanzen, die in das Hormonsystem eingreifen können, etwa indem sie körpereigene Hormone nachahmen oder deren Wirkung blockieren. Die Studienlage zu einzelnen Inhaltsstoffen ist uneinheitlich und teils umstritten; ein pauschales Gesundheitsrisiko für jede Person ist nicht belegt, ein vorsorglicher Verzicht wird von manchen Umwelt- und Verbraucherorganisationen dennoch empfohlen.",
+    "action": "Wer vorsorglich reduzieren möchte: Weichspüler weglassen oder durch einen Schuss weißen Essig im Weichspülfach ersetzen. Das ersetzt keine individuelle Beratung – bei bekannten Duftstoff- oder Kontaktallergien ist ohnehin ein Verzicht sinnvoll.",
+    "riskLevel": "mittel",
+    "endocrineDisruptor": true,
+    "sources": [
+      { "label": "Umweltbundesamt – Endokrine Disruptoren", "url": "https://www.umweltbundesamt.de/themen/chemikalien/chemikalien-mensch-umwelt/hormonell-wirksame-stoffe" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  },
+  {
+    "id": "zahnbuerste-hygiene",
+    "tab": "haushalt",
+    "category": "badezimmer",
+    "categoryLabel": "Badezimmer",
+    "title": "Schimmel an der Zahnbürste",
+    "aliases": ["Zahnbuerste Schimmel", "Zahnbuerstenhalter Hygiene"],
+    "viralClaim": "Clips zeigen schwarze Punkte an Zahnbürsten und behaupten, normales Zähneputzen mache dadurch automatisch krank.",
+    "evidenceScore": 2,
+    "facts": "Feuchte, schlecht belüftete Zahnbürstenhalter begünstigen Schimmel- und Bakterienwachstum. Für gesunde Menschen mit intaktem Immunsystem ist das Risiko durch kurzen Kontakt beim Zähneputzen nach aktueller Studienlage gering, aber nicht null – insbesondere bei sichtbarem Schimmelbefall ist Vorsicht sinnvoll.",
+    "action": "Zahnbürste nach Gebrauch abtropfen lassen statt in einem geschlossenen Becher zu lagern, Bürstenkopf nicht mit anderen Bürsten in Kontakt bringen, alle 2–3 Monate wechseln, bei sichtbarem Schimmel sofort austauschen.",
+    "riskLevel": "niedrig",
+    "sources": [
+      { "label": "American Dental Association – Toothbrush Care", "url": "https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/toothbrushes" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  },
+  {
+    "id": "antihaftpfannen",
+    "tab": "haushalt",
+    "category": "kueche",
+    "categoryLabel": "Küche",
+    "title": "Antihaft-Pfannen (Teflon & Co.)",
+    "aliases": ["Teflonpfanne", "PFAS", "Antihaftbeschichtung"],
+    "viralClaim": "Beiträge behaupten, jede beschichtete Pfanne setze giftige 'Ewigkeitschemikalien' frei, die sofort krank machen.",
+    "evidenceScore": 2,
+    "facts": "Ältere PFOA-haltige Beschichtungen stehen im Zusammenhang mit gesundheitlichen Risiken; PFOA ist in der EU seit Jahren verboten und in modernen Antihaftpfannen nicht mehr zulässig. Ein reales Risiko besteht vor allem bei starker Überhitzung (leeres, stark erhitztes Kochgeschirr) und bei tiefen Kratzern in alter, beschädigter Beschichtung.",
+    "action": "Antihaftpfannen nicht leer stark überhitzen, bei Kratzern oder abblätternder Beschichtung austauschen, moderat temperieren. Alternativen ohne Beschichtung sind Edelstahl- oder Gusseisenpfannen.",
+    "riskLevel": "mittel",
+    "endocrineDisruptor": true,
+    "sources": [
+      { "label": "ECHA – PFAS Restriction Overview", "url": "https://echa.europa.eu/hot-topics/perfluoroalkyl-chemicals-pfas" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  },
+  {
+    "id": "plastik-vorratsdosen",
+    "tab": "haushalt",
+    "category": "vorratsschrank",
+    "categoryLabel": "Vorratsschrank",
+    "title": "Plastik-Vorratsdosen & Mikroplastik",
+    "aliases": ["Plastikdosen", "Mikroplastik Lebensmittel", "Tupperdose"],
+    "viralClaim": "Clips behaupten, jede Plastikdose gebe bei jedem Kontakt gefährliche Mengen Mikroplastik an Lebensmittel ab.",
+    "evidenceScore": 1,
+    "facts": "Mikroplastik-Freisetzung aus Kunststoffbehältern ist real und wird zunehmend erforscht, besonders bei Erhitzung (z. B. in der Mikrowelle) oder starkem Verkratzen. Die tatsächliche gesundheitliche Bedeutung der aufgenommenen Mengen für den Menschen ist wissenschaftlich noch nicht abschließend geklärt – hier steckt die Forschung vergleichsweise früh.",
+    "action": "Kunststoffbehälter nicht in der Mikrowelle erhitzen, verkratzte oder trübe Dosen ersetzen, für heiße Speisen eher Glas oder Edelstahl verwenden.",
+    "riskLevel": "niedrig",
+    "sources": [
+      { "label": "WHO – Microplastics in Drinking-water", "url": "https://www.who.int/publications/i/item/9789241516198" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  }
+]
