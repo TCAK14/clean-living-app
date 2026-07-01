@@ -1,0 +1,56 @@
+[
+  {
+    "id": "kreatin",
+    "tab": "koerper",
+    "category": "muskeln",
+    "categoryLabel": "Muskeln",
+    "title": "Kreatin",
+    "aliases": ["Creatin", "Kreatin-Monohydrat", "Creatine"],
+    "viralClaim": "Social Media verkauft Kreatin oft als Wundermittel für sofortige Muskelberge oder warnt gleichzeitig vor angeblichen Nierenschäden.",
+    "evidenceScore": 3,
+    "facts": "Kreatin-Monohydrat gehört zu den am besten erforschten Nahrungsergänzungsmitteln überhaupt. Zahlreiche Studien und Metaanalysen zeigen einen Effekt auf kurzzeitige, hochintensive Kraftleistung (z. B. Krafttraining, Sprints). Bei gesunden Menschen ohne Nierenvorerkrankung gilt eine Standarddosis in der Forschung als gut untersucht. Effekte auf Kognition werden aktuell weiter erforscht, sind aber weniger eindeutig belegt als die Effekte auf die Muskelkraft.",
+    "action": "In Studien wird häufig eine tägliche Menge von 3–5 g Kreatin-Monohydrat verwendet, unabhängig vom Trainingstag. Wie bei jedem Nahrungsergänzungsmittel gilt: bei Nierenerkrankungen, Schwangerschaft, Stillzeit oder Medikamenteneinnahme vorher ärztlich abklären.",
+    "riskLevel": "niedrig",
+    "sources": [
+      { "label": "International Society of Sports Nutrition – Position Stand: Creatine (2017)", "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  },
+  {
+    "id": "magnesium",
+    "tab": "koerper",
+    "category": "herz",
+    "categoryLabel": "Herz",
+    "title": "Magnesium",
+    "aliases": ["Magnesiumcitrat", "Magnesiumoxid"],
+    "viralClaim": "Videos behaupten, Magnesium 'entspannt sofort das Herz' und beuge bei jedem Menschen Herzrhythmusstörungen vor.",
+    "evidenceScore": 2,
+    "facts": "Magnesium ist an über 300 enzymatischen Prozessen beteiligt, unter anderem an der Muskel- und Nervenfunktion. Bei nachgewiesenem Mangel gibt es Hinweise auf einen Zusammenhang mit Muskelkrämpfen und Herzrhythmus. Bei Menschen ohne Mangel ist die zusätzliche Wirkung einer Supplementierung weniger klar belegt als oft dargestellt – es handelt sich überwiegend um Beobachtungsstudien, nicht um breite, hochwertige Interventionsstudien.",
+    "action": "Ein Mangel lässt sich durch eine Blutuntersuchung feststellen. Bei bestätigtem Mangel wird die Dosierung individuell ärztlich festgelegt; pauschale Selbstmedikation bei Herzsymptomen wird nicht empfohlen – Herzrhythmusstörungen sollten immer ärztlich abgeklärt werden.",
+    "riskLevel": "mittel",
+    "sources": [
+      { "label": "NIH Office of Dietary Supplements – Magnesium Fact Sheet", "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  },
+  {
+    "id": "omega-3",
+    "tab": "koerper",
+    "category": "gehirn",
+    "categoryLabel": "Gehirn",
+    "title": "Omega-3-Fettsäuren",
+    "aliases": ["Fischöl", "EPA DHA", "Omega 3"],
+    "viralClaim": "Fischölkapseln würden angeblich die Konzentration 'sofort spürbar' verbessern.",
+    "evidenceScore": 2,
+    "facts": "EPA und DHA (die aktiven Omega-3-Fettsäuren) sind Bestandteile von Zellmembranen im Gehirn. Es gibt solide Evidenz für kardiovaskuläre Effekte bei bestimmten Risikogruppen; die Studienlage zu kurzfristigen kognitiven Effekten bei gesunden Erwachsenen ist gemischt und ein 'sofort spürbarer' Effekt ist wissenschaftlich nicht belegt.",
+    "action": "Fetter Seefisch (z. B. Lachs, Makrele) 1–2× pro Woche liefert relevante Mengen. Bei Nahrungsergänzung wird in Studien häufig ein Bereich von 250–500 mg EPA+DHA täglich verwendet.",
+    "riskLevel": "niedrig",
+    "sources": [
+      { "label": "EFSA – Scientific Opinion on DHA and EPA", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/2905" }
+    ],
+    "lastReviewed": "2026-06-01",
+    "status": "published"
+  }
+]
